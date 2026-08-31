@@ -215,18 +215,18 @@
     },
     "$description": "Orphan Button and the wordmark."
   },
-  "color-blue-600": {
-    "$type": "color",
-    "$value": {
-      "colorSpace": "srgb",
-      "components": [
-        0.11372549086809158,
-        0.30588236451148987,
-        0.8470588326454163
-      ]
-    },
-    "$description": "btn primary, btn-cta, book now button, btn admin."
+ "color-blue-600": {
+  "$type": "color",
+  "$value": {
+    "colorSpace": "srgb",
+    "components": [
+      0.0901960784,
+      0.2745098039,
+      0.7764705882
+    ]
   },
+  "$description": "btn primary, btn-cta, book now button, btn admin."
+},
   "color-blue-700": {
     "$type": "color",
     "$value": {
